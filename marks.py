@@ -6,3 +6,4 @@ print("Highest Mark:", max(marks))
 
 print("Welcome to Marks Calculator!")
 print("Calculate your marks and grade.")
+print("Minimum marks:", min(marks))
