@@ -3,3 +3,5 @@ average = sum(marks) / len(marks)
 print("Marks:", marks)
 print("Average:", average)
 print("Highest Mark:", max(marks))
+
+print ("Minimum marks:", min(marks))
